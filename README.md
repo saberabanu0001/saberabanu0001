@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-💻 **Backend Developer in Training** | 🎓 Computer Science Student @ Sejong University  
+💻 **Python Developer** | 🎓 Computer Science Student @ Sejong University  
 🌍 International Student based in Seoul, South Korea  
 
 ---
