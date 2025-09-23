@@ -37,7 +37,7 @@ Hi, I’m **Sabera Banu** 👩‍💻
 
 ## 📝 Activities
 
-📚 Currently learning **Laravel**  
+📚 Currently learning **Computer Vision**  
 🏢 Junior Python Developer @ JBRSOFT Limited – Working on NLP, LLMs & Retrieval-Augmented Generation projects  
 🔍 Engaged in Natural Language Processing and Large Language Models (RAG)  
 📌 Team Leader for AI-powered quiz generator (PDF Quizzard)  
