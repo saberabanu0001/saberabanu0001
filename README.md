@@ -27,24 +27,6 @@ Django, Flask, React, Node.js
 **Databases & Tools**  
 MySQL, SQLite, Git, GitHub, VS Code, PyCharm, Netlify
 
-## Featured Projects
-
-### PDF Quizzard
-AI-powered quiz generator that turns research PDFs into interactive questions using NLP and RAG.  
-[View Project](https://github.com/saberabanu0001/EduPDF-Quiz-Maker)
-
-### CalmMateAI
-Mental health support chatbot with voice input, seriousness detection, and emergency resource routing.  
-[View Project](https://github.com/saberabanu0001/NewCalmateAI)
-
-### EventBuddy
-University news and event platform for the Sejong community, built to make campus information easier to access.  
-[View Project](https://github.com/saberabanu0001/EventBuddy)
-
-### University Jacket Ordering Platform
-Web-based ordering system with authentication and order management for university members.  
-[View Project](https://github.com/saberabanu0001/UniversityJackedOrderingPlatform)
-
 ## Experience
 
 - Teaching Assistant, Sejong University
