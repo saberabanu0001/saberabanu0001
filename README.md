@@ -39,10 +39,14 @@ MySQL, SQLite, Git, GitHub, VS Code, PyCharm, Netlify
 
 [GitHub](https://github.com/saberabanu0001) • [HackerRank](https://www.hackerrank.com/profile/saberabanu0001) • [Codeforces](https://codeforces.com/profile/saberabanu0001) • [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/saberabanu0001)
 
-## GitHub Stats
-
+---
 ![Sabera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberabanu0001&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberabanu0001&layout=compact&hide_border=true)
+![Sabera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberabanu0001&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberabanu0001&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=saberabanu0001&theme=github-dark-blue&hide_border=true)
+
+
 
 ---
 
