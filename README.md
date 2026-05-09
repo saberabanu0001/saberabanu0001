@@ -9,23 +9,8 @@ ML/AI Developer and Computer Science student at Sejong University, building prac
 ## About Me
 
 - Based in Seoul, South Korea
-- Focused on ML, NLP, and human-centered AI products
-- Currently learning Computer Vision, advanced LangChain, and scalable system design
-- Motto: `Deeds, not words`
+- Focused on Computer Vision, Agentic AI
 
-## Tech Stack
-
-**Languages**  
-Python, Java, JavaScript, TypeScript, C++, HTML, CSS
-
-**AI/ML**  
-PyTorch, TensorFlow, LangChain, OpenAI
-
-**Frameworks**  
-Django, Flask, React, Node.js
-
-**Databases & Tools**  
-MySQL, SQLite, Git, GitHub, VS Code, PyCharm, Netlify
 
 ## Experience
 
@@ -42,5 +27,3 @@ MySQL, SQLite, Git, GitHub, VS Code, PyCharm, Netlify
 ![GitHub Streak](https://streak-stats.demolab.com?user=saberabanu0001&theme=github-dark-blue&hide_border=true)
 
 ---
-
-I enjoy building AI tools that solve real problems and create meaningful user experiences.
